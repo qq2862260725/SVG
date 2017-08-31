@@ -1,8 +1,7 @@
 body {
-	background-color: #eee;
+  background: #eee;
 }
 
-/*svg*/
 svg {
   display: block;
   position: absolute;
@@ -11,6 +10,7 @@ svg {
   transform: translate(-50%, -50%);
   border: 1px solid red;
 }
+
 .filler {
   background: #20B7AF;
   position: absolute;
@@ -18,4 +18,5 @@ svg {
   top: 0;
   left: 0;
   right: 0;
+  border: 1px solid red;
 }
